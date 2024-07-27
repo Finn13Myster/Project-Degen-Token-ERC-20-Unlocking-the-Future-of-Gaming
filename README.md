@@ -77,5 +77,5 @@ Franz Leeann U. Ferry [@LinkedIn](www.linkedin.com/in/franz-leeann-ferry-a286552
 
 ## License
 
-License - see the LICENSE.md file for details
+License - see the `LICENSE.md` file for details
 
