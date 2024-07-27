@@ -66,11 +66,11 @@ await degenToken.burnTokens(50);
 ```
 
 
-##HELP
+## HELP
     ```bash
     npx hardhat help
     ```
-#AUTHOR
+## AUTHOR
 Franz Leeann U. Ferry [@LinkedIn](www.linkedin.com/in/franz-leeann-ferry-a286552a2)
 
 
